@@ -369,9 +369,17 @@ Santosh Sharma:
   avatar      : "santsha2_bio.jpg"
   twitter     : "santsha2"
 
+<<<<<<< HEAD
 Antoine Orsoni:
   name        : "Antoine Orsoni"
   github      : "anorsoni"
   email       : “anorsoni@cisco.com”
   bio         : "Programmability enthousiast and Systems Engineer, Cisco"
   avatar      : "anorsoni.jpg"
+=======
+Neelima Parakala:
+  name        : "Neelima Parakala"
+  email       : "neparaka@cisco.com"
+  bio         : "Technical Marketing Engineer, Cisco."
+  avatar      : "neparaka.jpg"
+>>>>>>> 419fad16b5559ddfba65d576001cc1d29979ef80
