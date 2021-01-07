@@ -361,10 +361,17 @@ Lampros Gkavogiannis:
   bio         : "Technical Marketing Engineer, Cisco."
   avatar      : "lgkavogi.jpg"
 
-Jasmine Joyce Kalaiselvan:
+Santosh Sharma:
   name        : "Santosh Sharma"
   github      : "santsha2"
   email       : “santsha2@cisco.com”
   bio         : "Tech lead, S/W Engineering, Cisco."
   avatar      : "santsha2_bio.jpg"
   twitter     : "santsha2"
+
+Antoine Orsoni:
+  name        : "Antoine Orsoni"
+  github      : "anorsoni"
+  email       : “anorsoni@cisco.com”
+  bio         : "Programmability enthousiast and Systems Engineer, Cisco"
+  avatar      : "anorsoni.jpg"
