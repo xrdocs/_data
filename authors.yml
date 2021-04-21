@@ -1,7 +1,7 @@
 #################################   Teams   #################################
 
 Cisco Software Management Team:
-  name        : "Cisco SP Routing Team"
+  name        : "Cisco MIG Routing Team"
   github      : "ios-xr"
   bio         : "A Team of coders and network engineers determined to build the best architectures & technology for Service Providers."
   avatar      : "cisco-web-team.jpg"
