@@ -389,7 +389,6 @@ Jakub Horn:
   email       : "jhorn@cisco.com"
   avatar      : "jakubhorn.jpg"
   github      : "jakuhorn"
-<<<<<<< HEAD
 
 Gurpreet Dhaliwal:
   name        : "Gurpreet S"
@@ -397,7 +396,6 @@ Gurpreet Dhaliwal:
   bio         : "TME MIG"
   avatar      : "bio_gurpreets.JPG"
   github      : "gurpreets-iitg"
-=======
   
 Sounak Mukherjee:
   name        : "Sounak Mukherjee"
@@ -416,14 +414,13 @@ Fung Lim:
   email       : "flim@cisco.com"
   bio         : "Technical Marketing Engineer, Cisco."
   github      : "flim226"
-  avatar	  : "cloud-scale-networking-team.png"
+  avatar	    : "cloud-scale-networking-team.png"
   
 Akshaya Kumar Sankaran:
-  name : "Akshaya Kumar Sankaran"
-  email : "sakskuma@cisco.com"
-  bio : "Technical Marketing Engineer, Cisco"
-  twitter : "broadbandtme"
-  github : "akshaycisco"
-  linkedin : "akshayakumar"
-  avatar : "akshay.jpg"
->>>>>>> 13543a5019cb0a93b6976670009fd05cc5ad5712
+  name        : "Akshaya Kumar Sankaran"
+  email       : "sakskuma@cisco.com"
+  bio         : "Technical Marketing Engineer, Cisco"
+  twitter     : "broadbandtme"
+  github      : "akshaycisco"
+  linkedin    : "akshayakumar"
+  avatar      : "akshay.jpg"
