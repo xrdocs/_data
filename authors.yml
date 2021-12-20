@@ -222,10 +222,11 @@ Josh Peters:
 Nicolas Fevrier:
   name        : "Nicolas Fevrier"
   github      : "nfevrier"
-  email       : "nifevrie@cisco.com"
   avatar      : "nfevrier_bio.jpeg"
-  bio         : "Principal TME, Cisco"
-  twitter     : "CiscoIOSXR"
+  bio         : "ex-Cisco"
+  twitter     : "c1sc0kid"
+  linkedin    : "nfevrier"
+
 
 Viktor Osipchuk:
   name        : "Viktor Osipchuk"
