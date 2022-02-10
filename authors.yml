@@ -422,6 +422,7 @@ Akshaya Kumar Sankaran:
   github      : "akshaycisco"
   linkedin    : "akshayakumar"
   avatar      : "akshay.jpg"
+<<<<<<< HEAD
 
 Chang Soo Lee:
   name        : "CS Lee"
@@ -434,3 +435,11 @@ Alain Nicolas:
   email       : "alnicola@cisco.com"
   bio         : "Consulting Engineer, Cisco."
   github      : "aln.nicolas"
+=======
+  
+Vladimir Deviatkin:
+  name        : "Vladimir Deviatkin"
+  email       : "vdeviatk@cisco.com"
+  bio         : "Technical Consulting Engineer, Cisco."
+  avatar      : "vdeviatk.jpg"
+>>>>>>> a115316424c9ae74e50b56bbe3168e0db29406e4
