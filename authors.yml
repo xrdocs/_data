@@ -422,3 +422,15 @@ Akshaya Kumar Sankaran:
   github      : "akshaycisco"
   linkedin    : "akshayakumar"
   avatar      : "akshay.jpg"
+
+Chang Soo Lee:
+  name        : "CS Lee"
+  email       : "cslee@cisco.com"
+  bio         : "Technical Marketing Engineer, Cisco."
+  github      : "bluecslee"
+
+Alain Nicolas:
+  name        : "Alain Nicolas"
+  email       : "alnicola@cisco.com"
+  bio         : "Consulting Engineer, Cisco."
+  github      : "aln.nicolas"
