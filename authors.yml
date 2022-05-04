@@ -113,9 +113,8 @@ Praveen Bhagwatula:
 Richard Wade:
   name        : "Richard Wade"
   github      : "rikwade"
-  email       : "ricwade@cisco.com"
   avatar      : "ricwade_bio.jpeg"
-  bio         : "Customer Solutions Architect, Cisco."  
+  bio         : "ex-Cisco"  
   
 Marco Umer:
   name        : "Marco Umer"
@@ -127,44 +126,38 @@ Marco Umer:
 Lisa Roach:
   name        : "Lisa Roach"
   github      : "lisroach"
-  email       : "lisroach@cisco.com"
-  bio         : "Programmer dedicated to making good code and drinking good beer."
+  bio         : "ex-Cisco"
   avatar      : "lisa_bio.png"
  
 Jose Palafox:
   name        : "Jose Palafox"
   github      : "josepalafox"
-  email       : "jopalafo@cisco.com"
   twitter     : "cruzfox"
-  bio         : "Business Development Manager, Web Solutions, Cisco"
+  bio         : "ex-Cisco"
   avatar      : "josep_bio.jpeg"
 
 Anne Sequeira:
   name        : "Anne Sequeira"
   github      : "annesequeira"
-  email       : "annseque@cisco.com"
   avatar      : "anneseque_bio.png"
-  bio         : "Technical Writer, evangelist, Cisco."
+  bio         : "ex-Cisco"
 
 Richard Wellum:
   name        : "Richard Wellum"
   github      : "RichWellum"
-  email       : "rwellum@cisco.com"
   avatar      : "richwellum_bio.jpg"
-  bio         : "Technical Leader, Cisco."
+  bio         : "ex-Cisco"
   twitter     : "XRvCiscoRich"
 
 Sushrut Shirole:
   name        : "Sushrut Shirole"
   github      : "sushirol"
-  email       : "sushirol@cisco.com"
   avatar      : "sushirol_bio.jpg"
-  bio         : "Software Engineer, Cisco."
+  bio         : "ex-Cisco"
 
 Santiago Alvarez:
   name        : "Santiago Alvarez"
-  email       : "saalvare@cisco.com"
-  bio         : "Technical Marketing Engineer, Cisco"
+  bio         : "ex-Cisco"
   avatar      : "salvarez_bio.jpg"
   twitter     : "111pontes"
   github      : "111pontes"
@@ -172,8 +165,7 @@ Santiago Alvarez:
 Nicolas Leiva:
   name        : "Nicolas Leiva"
   github      : "nleiva"
-  email       : "nleiva@cisco.com"
-  bio         : "Solutions Architect, Cisco"
+  bio         : "ex-Cisco"
   avatar      : "nleiva.png"
   twitter     : "nleiv4"
 
@@ -187,15 +179,13 @@ Jose Liste:
   
 Patrick Warichet:
   name        : "Patrick Warichet"
-  email       : "pwariche@cisco.com"
   avatar      : "pwariche_bio.jpg"
-  bio         : "Technical Marketing Engineer, Cisco."
+  bio         : "ex-Cisco"
   
 Karthik Kumaravel:
   name        : "Karthik Kumaravel"
   github      : "skkumaravel"
-  email       : "kkumara3@cisco.com"
-  bio         : "System Engineer Sales, Cisco"
+  bio         : "ex-Cisco"
   avatar      : "kkumara3.jpg"
 
 Phil Bedard:
@@ -208,30 +198,27 @@ Phil Bedard:
 Derek Tay:
   name        : "Derek Tay"
   github      : "derektay"
-  email       : "derekta@cisco.com"
-  bio         : "Technical Marketing Engineer, Cisco"
+  bio         : "ex-Cisco"
   avatar      : "derekta.png"
 
 Josh Peters:
   name        : "Josh Peters"
   github      : "jpeters1"
-  email       : "joshpete@cisco.com"
-  bio         : "Technical Marketing Engineer, Cisco"
+  bio         : "ex-Cisco"
   avatar      : "jpeters.png"
 
 Nicolas Fevrier:
   name        : "Nicolas Fevrier"
   github      : "nfevrier"
-  email       : "nifevrie@cisco.com"
   avatar      : "nfevrier_bio.jpeg"
-  bio         : "Principal TME, Cisco"
-  twitter     : "CiscoIOSXR"
+  bio         : "ex-Cisco"
+  twitter     : "c1sc0kid"
+  linkedin    : "nfevrier"
 
 Viktor Osipchuk:
   name        : "Viktor Osipchuk"
   github      : "vosipchu"
-  email       : "vosipchu@cisco.com"
-  bio         : "A person who never made a mistake never tried anything new"
+  bio         : "ex-Cisco"
   avatar      : "vosipchu.jpeg"
   
 Jiri Chaloupka:
@@ -344,8 +331,7 @@ Paban Sarma:
 
 Jasmine Joyce Kalaiselvan:
   name        : "Jasmine Joyce Kalaiselvan"
-  email       : "jkalaise@cisco.com"
-  bio         : "Technical Leader, Cisco."
+  bio         : "ex-Cisco"
   avatar      : "jkalaise.jpg"
   twitter     : "jkalaise"
 
@@ -358,7 +344,7 @@ Avinash Pathak:
 Lampros Gkavogiannis:
   name        : "Lampros Gkavogiannis"
   email       : "lgkavogi@cisco.com"
-  bio         : "Technical Marketing Engineer, Cisco."
+  bio         : "Technical Marketing Engineer,  Cisco."
   avatar      : "lgkavogi.jpg"
 
 Santosh Sharma:
@@ -389,15 +375,11 @@ Jakub Horn:
   email       : "jhorn@cisco.com"
   avatar      : "jakubhorn.jpg"
   github      : "jakuhorn"
-<<<<<<< HEAD
 
 Gurpreet Dhaliwal:
   name        : "Gurpreet S"
-  email       : "gdhaliwa"
   bio         : "TME MIG"
   avatar      : "bio_gurpreets.JPG"
-  github      : "gurpreets-iitg"
-=======
   
 Sounak Mukherjee:
   name        : "Sounak Mukherjee"
@@ -416,14 +398,40 @@ Fung Lim:
   email       : "flim@cisco.com"
   bio         : "Technical Marketing Engineer, Cisco."
   github      : "flim226"
-  avatar	  : "cloud-scale-networking-team.png"
+  avatar	    : "cloud-scale-networking-team.png"
   
 Akshaya Kumar Sankaran:
-  name : "Akshaya Kumar Sankaran"
-  email : "sakskuma@cisco.com"
-  bio : "Technical Marketing Engineer, Cisco"
-  twitter : "broadbandtme"
-  github : "akshaycisco"
-  linkedin : "akshayakumar"
-  avatar : "akshay.jpg"
->>>>>>> 13543a5019cb0a93b6976670009fd05cc5ad5712
+  name        : "Akshaya Kumar Sankaran"
+  email       : "sakskuma@cisco.com"
+  bio         : "Technical Marketing Engineer, Cisco"
+  twitter     : "broadbandtme"
+  github      : "akshaycisco"
+  linkedin    : "akshayakumar"
+  avatar      : "akshay.jpg"
+
+Chang Soo Lee:
+  name        : "Chang Soo Lee"
+  email       : "cslee@cisco.com"
+  bio         : "Technical Marketing Engineer, Cisco."
+  github      : "bluecslee"
+  avatar      : "CSLee.png"
+
+Alain Nicolas:
+  name        : "Alain Nicolas"
+  email       : "alnicola@cisco.com"
+  bio         : "Network Consulting Engineer, Cisco."
+  twitter     : "alainicolas"
+  linkedin    : "alainicolas"
+  avatar      : "alnicola.jpg"
+  
+Vladimir Deviatkin:
+  name        : "Vladimir Deviatkin"
+  email       : "vdeviatk@cisco.com"
+  bio         : "Technical Consulting Engineer, Cisco."
+  avatar      : "vdeviatk.jpg"
+
+LJ Wobker:
+  name        : "LJ Wobker"
+  email       : "lwobker@cisco.com"
+  bio         : "Principal Technical Consulting Engineer, Cisco."
+  avatar      : "lwobker.jpg"
