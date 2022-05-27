@@ -298,8 +298,7 @@ Sonia Ben Ayed:
   email       : "sbenayed@cisco.com"
   bio         : "Collge Intern, Cisco."
   avatar      : "sbenayed.jpg"
-  
-  
+   
 Frederic Cuiller:
   name        : "Frederic Cuiller"
   email       : "fcuiller@cisco.com"
@@ -314,20 +313,17 @@ Aleksandar Vidakovic:
   bio         : "Tech Lead, Cisco."
   avatar      : "avidakov.jpg"
   
-  
 Nikolay Karpyshev:
   name        : "Nikolay Karpyshev"
   email       : "nkarpysh@cisco.com"
   bio         : "Software Engineer, Cisco."
   avatar      : "nkarpysh.jpg"
   
-
 Paban Sarma:
   name        : "Paban Sarma"
   email       : "pasarma@cisco.com"
   bio         : "Technical Marketing Engineer, Cisco."
   avatar      : "pasarma.jpg"
-
 
 Jasmine Joyce Kalaiselvan:
   name        : "Jasmine Joyce Kalaiselvan"
@@ -435,7 +431,6 @@ LJ Wobker:
   email       : "lwobker@cisco.com"
   bio         : "Principal Technical Consulting Engineer, Cisco."
   avatar      : "lwobker.jpg"
-
 
 Rakesh Kandula:
   name        : "Rakesh Kandula"
