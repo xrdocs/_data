@@ -438,3 +438,11 @@ Rakesh Kandula:
   email       : "krreddy@cisco.com"
   avatar      : "rakesh_kandula.jpg"
   bio         : "Technical Marketing Engineer"
+
+Adam Horton:
+  name        : "Adam Horton"
+  email       : "adhorton@cisco.com"
+  bio         : "Technical Marketing Engineer, Cisco"
+  github      : "adhorton-cisco"
+  linkedin    : "www.linkedin.com/in/adam-horton-78395022b"
+  avatar      : "adamhorton.jpeg"
