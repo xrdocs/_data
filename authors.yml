@@ -478,3 +478,16 @@ Vitha Anumolu:
   bio         : "Technical Marketing Engineer Intern, Cisco MIG"
   linkedin    : "Anvitha Anumolu"
   avatar      : "vitha.jpg"
+
+Taran Deshpande:
+  name        : "Taran Deshpande"
+  email       : "tadeshpa@cisco.com"
+  bio         : "Technical Marketing Engineer, Cisco"
+  linkedin    : "taran-desh"
+  avatar      : "taran.jpg"
+
+Annapoorani G:
+  name        : "Annapoorani G"
+  email       : "annag@cisco.com"
+  bio         : "Technical Writer, Cisco"
+  avatar      : "annapoorani.jpg"
