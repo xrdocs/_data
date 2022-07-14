@@ -489,5 +489,20 @@ Taran Deshpande:
 Annapoorani G:
   name        : "Annapoorani G"
   email       : "annag@cisco.com"
+  # github      : "annag"
   bio         : "Technical Writer, Cisco"
   avatar      : "annapoorani.jpg"
+
+Sarah Samuel:
+  name        : "Sarah Samuel"
+  email       : "sasamuel@cisco.com"
+  # github      : "sasamuel"
+  bio         : "Technical Writer, Cisco"
+  avatar      : "sasamuel.jpg"
+
+Pradeep Sosale:
+  name        : "Pradeep Sosale"
+  email       : "psosale@cisco.com"
+  # github      : "annag"
+  bio         : "Technical Writer, Cisco"
+  avatar      : "psosale.jpg"
