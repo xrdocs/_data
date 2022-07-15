@@ -509,6 +509,7 @@ Pradeep Sosale:
 
 Cisco MIG Notebooks Team:
   name        : "Cisco MIG Notebooks Team"
+  email       : "mig-notebooks@cisco.com"
   # github      : "ios-xr"
   bio         : "A Team of Cisco technical writers"
   avatar      : "ciscomignotebooksteam.jpg"
