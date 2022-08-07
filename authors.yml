@@ -28,6 +28,13 @@ Cisco Service Layer Team:
   avatar      : "cisco-web-team.jpg"
   twitter     : "xrdocs"
 
+Cisco Virtual Routing Team:
+  name        : "Cisco Virtual Routing Team"
+  github      : "ios-xr"
+  bio         : "A Team of coders and network engineers determined to build the best architectures & technology for Service Providers."
+  avatar      : "virtual-routing.png"
+  twitter     : "xrdocs"
+  
 Cisco Telemetry Team:
   name        : "Cisco MIG Routing Team"
   github      : "ios-xr"
