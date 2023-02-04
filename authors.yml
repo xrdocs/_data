@@ -293,7 +293,6 @@ Tejas Lad:
   bio         : "Technical Marketing Engineer, Cisco."
   avatar      : "telad.jpg"   
 
-
 Vincent Ng:
   name        : "Vincent Ng"
   email       : "vinng@cisco.com"
@@ -521,7 +520,7 @@ Annapoorani G:
 Sarah Samuel:
   name        : "Sarah Samuel"
   email       : "sasamuel@cisco.com"
-  # github      : "sasamuel"
+  # github      : "sasamue l"
   bio         : "Technical Writer, Cisco"
   avatar      : "sasamuel.jpg"
 
