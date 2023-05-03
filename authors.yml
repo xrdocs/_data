@@ -512,31 +512,26 @@ Deepak Balasubramanian:
 Annapoorani G:
   name        : "Annapoorani G"
   email       : "annag@cisco.com"
-  # github      : "annag"
   bio         : "Technical Writer, Cisco"
   avatar      : "annapoorani.jpg"
 
 Sarah Samuel:
   name        : "Sarah Samuel"
   email       : "sasamuel@cisco.com"
-  # github      : "sasamue l"
   bio         : "Technical Writer, Cisco"
   avatar      : "sasamuel.jpg"
 
 Pradeep Sosale:
   name        : "Pradeep Sosale"
   email       : "psosale@cisco.com"
-  # github      : "annagg"
   bio         : "Technical Writer, Cisco"
   avatar      : "psosale.jpg"
 
 Cisco MIG Notebooks Team:
   name        : "Cisco MIG Notebooks Team"
   email       : "mig-notebooks@cisco.com"
-  # github      : "ios-xr"
   bio         : "A Team of Cisco technical writers"
   avatar      : "cloud-scale-networking-team.png"
-  # twitter     : "xrdocs"
 
 Yosef Manasseh:
   name        : "Yosef Manasseh"
