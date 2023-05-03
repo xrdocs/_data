@@ -90,8 +90,8 @@ Shelly Cadora:
 Akshat Sharma:
   name        : "Akshat Sharma"
   github      : "akshshar"
-  email       : "akshshar@cisco.com"
-  bio         : "Evangelist, tinkerer, dog-lover and Technical Marketing Engineer, Cisco."
+  #email       : "akshshar@cisco.com"
+  bio         : "ex-Cisco."
   avatar      : "akshat_bio_photo.jpeg"
   twitter     : "irakshat"
 
