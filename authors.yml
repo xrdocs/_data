@@ -564,7 +564,13 @@ Manish Chandra Pandey:
   name        : "Manish Chandra Pandey"
   email       : "mapandey@cisco.com"
   bio         : "Engineering Technical, Cisco"
-  # linkedin    : "saigopalakrishnn"
   avatar      : "mapandey.jpg"
+
+Ori Gerstel:
+  name        : "Ori Gerstel"
+  email       : "ogerstel@cisco.com"
+  bio         : "CTO for Routed Optical Networking, Cisco"
+  avatar      : "ogerstel.jpg"
+  linkedin    : "origerstel"
 
 #New Entry:
