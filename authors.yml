@@ -315,8 +315,10 @@ Frederic Cuiller:
 Aleksandar Vidakovic:
   name        : "Aleksandar Vidakovic"
   email       : "avidakov@cisco.com"
-  bio         : "Tech Lead, Cisco."
+  bio         : "Principal Engineer XR Routing Deployment & Escalation, Cisco."
   avatar      : "avidakov.jpg"
+  linkedin    : "avidakov"
+  github      : "avidakov"
   
 Nikolai Karpyshev:
   name        : "Nikolai Karpyshev"
