@@ -659,5 +659,18 @@ Paul Blaszkiewicz:
   bio         : "ex-cisco"
   avatar      : "cisco-web-team.jpg"
 
+Sushin Suresan Adackaconam:
+  name        : "Sushin Suresan Adackaconam"
+  email       : "ssuresan@cisco.com"
+  bio         : "Direct, Protduct Management, Cisco"
+  avatar      : "ssuresan.jpeg"
+  linkedin    : "sushin-suresan-2058a118"
+  github      : ""
 
+Dimitri Mikhailov:
+  name        : "Dimitri Mikhailov"
+  email       : "dimikhai@cisco.com"
+  bio         : "Technical Consulting Engineer, Cisco"
+  avatar      : "dimikhai.jpg"
+  github      : "xrborg"
 #add New entry
