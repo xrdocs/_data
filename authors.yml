@@ -673,4 +673,12 @@ Dimitri Mikhailov:
   bio         : "Technical Consulting Engineer, Cisco"
   avatar      : "dimikhai.jpg"
   github      : "xrborg"
+
+Alexey Babaytsev:
+  name        : "Alexey Babaytsev"
+  email       : "ababayts@cisco.com"
+  bio         : "Technical Marketing Engineer, Cisco"
+  avatar      : "ababayts.jpeg"
+  linkedin    : "alexey-babaytsev-a183324"
+  github      : "ababayts"
 #add New entry
