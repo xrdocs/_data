@@ -689,11 +689,12 @@ Lawrence Troup:
   avatar      : "ltroup.jpg"
   linkedin    : "lawrence-troup-622547233"
 
-Luca Della Chiesa:
-  name        : “Luca Della Chiesa”
-  email       : “ldellach@cisco.com”
-  bio         : “Distinguish Engineer, Cisco”
-  avatar      : “ldellach.jpeg”
-  github      : “ldellach”
+Luca Della Chiesa: 
+  name        : "Luca Della Chiesa"
+  email       : "ldellach@cisco.com"
+  bio         : "Distinguished Engineer, Cisco"
+  avatar      : "ldellach.jpg"
+  github      : "ldellach"
+
 #add New entry
 #add New entry
