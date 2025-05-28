@@ -688,4 +688,11 @@ Lawrence Troup:
   bio         : "Software Engineer, Cisco"
   avatar      : "ltroup.jpg"
   linkedin    : "lawrence-troup-622547233"
+
+Luca Della Chiesa:
+  name        : “Luca Della Chiesa”
+  email       : “ldellach@cisco.com”
+  bio         : “Distinguish Engineer”
+  avatar      : “ldellach.jpg”
+  github      : “ldellach”
 #add New entry
