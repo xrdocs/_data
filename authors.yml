@@ -696,5 +696,11 @@ Luca Della Chiesa:
   avatar      : "ldellach.jpg"
   github      : "ldellach"
 
-#add New entry
+Alexei Kiritchenko: 
+  name        : "Alexei Kiritchenko"
+  email       : "akiritch@cisco.com"
+  bio         : "Solutions Architect, Cisco"
+  avatar      : "akiritch.jpg"
+  github      : "sedoychel"
+
 #add New entry
